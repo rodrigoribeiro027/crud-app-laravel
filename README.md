@@ -2,20 +2,22 @@
 
 Este projeto é uma aplicação web básica para gerenciar candidatos, desenvolvida usando o framework Laravel. Ele permite listar, cadastrar, visualizar, editar e excluir candidatos. Abaixo você encontrará detalhes sobre as rotas disponíveis e como configurar e iniciar o projeto.
 
+![Homepage image](https://github.com/rodrigoribeiro027/crud-app-laravel/blob/main/resources/images/crud.png)
+
 ## Requisitos
 
 - PHP >= 7.4
 - Composer
 - Laravel >= 8.x
-- Banco de Dados (MySQL, SQLite, etc.)
+- Banco de Dados (MySQL)
 
 ## Instalação
 
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/rodrigoribeiro027/crud-app-laravel
+    cd crud-app-laravel
     ```
 
 2. **Instale as dependências**:
@@ -146,6 +148,6 @@ O projeto segue a estrutura padrão do Laravel. As principais pastas e arquivos 
 
 ## Considerações Finais
 
-Este projeto é um exemplo básico de CRUD (Create, Read, Update, Delete) utilizando o Laravel. Pode ser expandido com mais funcionalidades, como autenticação de usuários, paginação de resultados, entre outras.
+Este projeto é um exemplo básico de CRUD (Create, Read, Update, Delete) utilizando o Laravel.
 
 Para mais informações sobre Laravel, consulte a [documentação oficial](https://laravel.com/docs).
